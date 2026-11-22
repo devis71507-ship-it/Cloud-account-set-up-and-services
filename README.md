@@ -131,7 +131,7 @@ EMR Machine Learning
 
 SageMaker
 # Region Selection:
-<img width="1903" height="881" alt="Screenshot 2026-07-28 091853" src="https://github.com/user-attachments/assets/c98bd5cc-ecd5-465e-af29-732c5ec8bafa" />
+<img width="1917" height="848" alt="image" src="https://github.com/user-attachments/assets/66ce50f9-5fe3-4b9c-8309-e87fdfd468fe" />
 
 Example: Mumbai Singapore US East (N. Virginia) Students should understand that resources are created within a selected AWS Region.
 
